@@ -1,0 +1,4 @@
+[INFO ] 2022-09-21 14:17:23.320 [main] log4jdemo - This is message
+[ERROR] 2022-09-21 14:17:23.323 [main] log4jdemo - This is message
+[WARN ] 2022-09-21 14:17:23.323 [main] log4jdemo - This is message
+[FATAL] 2022-09-21 14:17:23.323 [main] log4jdemo - This is message

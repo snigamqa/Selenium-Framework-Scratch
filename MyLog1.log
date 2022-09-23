@@ -1,0 +1,2 @@
+2022-09-21 15:30:57,724 ERROR g.log4jdemo [main] This is message
+2022-09-21 15:30:57,726 FATAL g.log4jdemo [main] This is message
