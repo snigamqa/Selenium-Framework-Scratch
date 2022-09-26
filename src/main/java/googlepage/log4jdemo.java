@@ -19,6 +19,7 @@ public class log4jdemo {
 	logger.fatal("This is message");
 	System.out.println(" Completed");
 	
+	
 	}
 
 }
